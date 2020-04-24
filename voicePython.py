@@ -2,7 +2,7 @@ from win32com.client import Dispatch
 s = Dispatch("SAPI.SpVoice")
 
 x = "Helllo"
-z = "Dis"
-print(x + z)
+b = "Worlddddd"
+print(x + b)
 s.Speak("szanuj DISA")
 
