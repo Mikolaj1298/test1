@@ -1,3 +1,4 @@
 from win32com.client import Dispatch
 s = Dispatch("SAPI.SpVoice")
-s.Speak("jebać DISA")
+s.Speak("szanuj DISA")
+
